@@ -1,0 +1,19 @@
+{
+  "name": "ytdaj",
+  "version": "1.0.0",
+  "description": "Youtube donwloader with Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajilal95/ytdaj.git"
+  },
+  "author": "Ajilal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajilal95/ytdaj/issues"
+  },
+  "homepage": "https://github.com/ajilal95/ytdaj#readme"
+}

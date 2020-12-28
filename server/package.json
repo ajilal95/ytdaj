@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ajilal95/ytdaj/issues"
   },
-  "homepage": "https://github.com/ajilal95/ytdaj#readme"
+  "homepage": "https://github.com/ajilal95/ytdaj#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ytdl-core": "^4.2.1"
+  }
 }
